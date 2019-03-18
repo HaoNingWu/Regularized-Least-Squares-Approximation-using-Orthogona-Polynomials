@@ -8,15 +8,18 @@ which is developed by Oxford's Numerical Analysis Group. See http://www.chebfun.
 We also provide Chenfun here! You are recommended to ADD IT TO PATH first.
 
 Core codes:
+
 1> l1_beta.m: solve l1-regularized approximation problem for coefficent beta
 2> l2_beta.m: solve l2-regularized approximation problem for coefficent beta
 
 Numerical experiments:
+
 [1] smoothapproximation.m：approximate a smooth function (This function stems from L. N. Trefethen's Approximation Theory and Approximation Practice)
 [2] reduction.m: recovery from a noisy function (spectral density of gate signal)
 [3] highoscillateddenoising.m: recovery from a highly oscillatory function with noise (function y=airy(40x))
 
 Notes:
+
 1) checkbary1.m: this code illustrates that it is the same numerically between l1 minimizer by closed-form solution and l1-regularized barycentric form
 2) checkbary2.m: this code illustrates that it is the same numerically between l2 minimizer by closed-form solution and l2-regularized barycentric form
 3) sparsity.m: this code shows the sparsity of l1-regularized solution
