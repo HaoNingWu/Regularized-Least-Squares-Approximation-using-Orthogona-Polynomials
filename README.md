@@ -18,7 +18,7 @@ example.m is a comprehensive colleciton of the following there experiments. You 
 
 1) smoothapproximation.m：approximate a smooth function (This function stems from L. N. Trefethen's Approximation Theory and Approximation Practice)
 2) reduction.m: recovery from a noisy function (spectral density of gate signal)
-3) highoscillateddenoising.m: recovery from a highly oscillatory function with noise (function y=airy(40x))
+3) BARYhighoscillateddenoising.m: recovery from a highly oscillatory function with noise (function y=airy(40x)) by regularized barycentric interpolation.
 
 Notes:
 
