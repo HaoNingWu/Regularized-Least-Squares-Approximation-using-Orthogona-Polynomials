@@ -26,8 +26,10 @@ Notes:
 2) checkbary2.m: this code illustrates that it is the same numerically between l2 minimizer by closed-form solution and l2-regularized barycentric form
 3) sparsity.m: this code shows the sparsity of l1-regularized solution
 
+If you are puzzling about running these codes, you may feel free to contact with me. 
 Contact information:
 Hao-Ning Wu
-Department of Mathematics, Jinan University 
-Guangzhou, China 
+~~Department of Mathematics, Jinan University ~~
+~~Guangzhou, China~~
+I will join HKU as a PhD student this autumn, the above affiliation is unavailable. (updated July 4, 2019) 
 haoning.wu@outlook.com, hwu@stu2015.jnu.edu.cn 
